@@ -46,7 +46,5 @@ terraform_root_modules = [
   "aws/tfstate-backend",
   "aws/account-dns",
   "aws/chamber",
-  "aws/kops",
-  "aws/kops-aws-platform",
   "aws/cloudtrail",
 ]
